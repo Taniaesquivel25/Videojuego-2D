@@ -1,1 +1,1 @@
-# Videojuego-2D
+# JUEGO-2D
