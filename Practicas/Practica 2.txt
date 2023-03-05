@@ -1,0 +1,17 @@
+void main() {
+  
+  //Strings
+  final String nombre = 'Tony'; //NO VAN A CAMBIAR DESPUES DE QUE LAS USEMOS
+  const apellido = 'Stark'; //SI CAMBIA EL VALOR MAS ADELANTE
+  
+  //Nombre = "Peter";
+  
+  print('$nombre $apellido'); //simbolo de pesos para imprimir strings
+  
+  //Numeros enteros y decimales
+  int empleados = 18;
+  double salario = 1856.25;
+  
+  print(empleados);
+  print(salario);
+}

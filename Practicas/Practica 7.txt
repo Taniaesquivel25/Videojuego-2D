@@ -1,0 +1,13 @@
+void main() {
+
+  Map < String,dynamic> persona ={
+    'nombre': 'Tania',
+    'edad': 18,
+    'soltero':false,
+    
+  };
+  
+  persona.addAll({'segundo nombre':'Tania'});
+  
+  print(persona['edad']);
+}

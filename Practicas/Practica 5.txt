@@ -1,0 +1,8 @@
+void main() { //FUNCION MAIN
+  double PrimerNumero = 50;
+  double SegundoNumero = 10;
+  double TercerNumero = 189;
+  double Resultado;
+    Resultado = PrimerNumero + SegundoNumero + TercerNumero;
+    print(Resultado);
+}

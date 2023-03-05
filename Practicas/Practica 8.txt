@@ -1,0 +1,17 @@
+void main() {
+
+final String? nombre='Tania';
+  saludar(nombre, 'Gratings');
+  //saludar2(nombre:nombre, mensaje:'Gratings');
+}
+void saludar(String? nombre, [String mensaje ='Hi']){
+  print('$mensaje $nombre');
+}
+void saludar2({
+  required String nombre,
+  required String mensaje,
+      
+}){
+  
+  print('$mensaje $nombre');
+}

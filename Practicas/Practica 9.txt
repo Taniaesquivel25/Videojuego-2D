@@ -1,0 +1,21 @@
+void main() {
+
+  Map < String,dynamic> usuarios ={
+    'ID_USUARIO': '',
+    'USERNAME': '',
+    'NOMBRES': '',
+    'APELLIDO_P': '',
+    'APELLIDO_M': '',
+    'EDAD': '',
+    'CORREO_E': '',
+    'PASSWORD': '',
+  };
+  print(usuarios);
+  
+  Map  <String, dynamic> score ={
+    'ID_SCORE': '',
+    'ID_USUARIO': '',
+    'SCORE': '',
+  };
+  print(score);
+}
