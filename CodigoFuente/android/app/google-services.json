@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "109723052031",
+    "project_id": "juego2d-bc940",
+    "storage_bucket": "juego2d-bc940.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109723052031:android:265938802fce67c6b729ca",
+        "android_client_info": {
+          "package_name": "com.example.pruebasnav"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109723052031-oj4pjvtdts51eohef5efeqejnhs8b179.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgBX5NuLIs13DM5L75ax0hhUlmwYI6AaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109723052031-oj4pjvtdts51eohef5efeqejnhs8b179.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
