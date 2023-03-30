@@ -1,0 +1,64 @@
+name: pruebasnav
+description: A new Flutter project.
+
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.19.2 <3.0.0'
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+    
+  cupertino_icons: ^1.0.5
+
+  firebase_core: ^2.8.0
+  firebase_auth: ^4.3.0
+
+  google_fonts: ^4.0.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+
+flutter:
+
+
+  uses-material-design: true
+
+
+  assets:
+    - assets/practica-colores/rojo.png
+    - assets/practica-colores/rosa.png
+    - assets/practica-colores/salmon.png
+    - assets/practica-colores/verde.png
+    - assets/practica-colores/azul.png
+    - assets/practica-numeros/numero-0.png
+    - assets/practica-numeros/numero-1.png
+    - assets/practica-numeros/numero-2.png
+    - assets/practica-numeros/numero-3.png
+    - assets/practica-numeros/numero-4.png
+    - assets/practica-numeros/numero-5.png
+    - assets/practica-numeros/numero-6.png
+    - assets/practica-numeros/numero-7.png
+    - assets/practica-numeros/numero-8.png
+    - assets/practica-numeros/numero-9.png
+    - assets/practica-letras/letra-a.png
+    - assets/practica-letras/letra-e.png
+    - assets/practica-letras/letra-i.png
+    - assets/practica-letras/letra-o.png
+    - assets/practica-letras/letra-u.png
+    - assets/practica-animales/animal-cerdo.png
+    - assets/practica-animales/animal-gallina.png
+    - assets/practica-animales/animal-gato.png
+    - assets/practica-animales/animal-perro.png
+    - assets/practica-animales/animal-vaca.png
+    - assets/login-logo/login-logo.png
+
+
